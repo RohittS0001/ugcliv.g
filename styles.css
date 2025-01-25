@@ -5,7 +5,9 @@ body {
     box-sizing: border-box;
     color: #333;
 }
-
+p{
+    font-family: 'Oranienbaum', 'Arial Narrow', Arial, sans-serif;
+}
 header.hero-section {
     background-color: #BFDAA4;
     text-align: center;
