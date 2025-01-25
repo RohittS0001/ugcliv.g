@@ -120,8 +120,8 @@ footer .footer-links a {
 footer .footer-links a:hover {
     color: #3498db;
 }
-.footer > p{
-    font-family: 'Oranienbaum', 'Arial Narrow', Arial;
+.footer-container .about-section{
+    font-family: 'Poppins', sans-serif;
 }
 .social-links i{
     display: inline-flex;
